@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://media.tenor.com/8oIrflVf-4AAAAAd/cristiano-ronaldo-ronaldo.gif" width="220"/>
-<img src="https://media.tenor.com/mCYz7MUm7UEAAAAd/cr7-cristiano.gif" width="220"/>
-<img src="https://media.tenor.com/Lc-9bJ1h06sAAAAd/cr7-siuuu.gif" width="220"/>
+<img src="https://media.tenor.com/hnP8FWI5fB4AAAAd/cristiano-ronaldo.gif" width="250"/>
+<img src="https://media.tenor.com/e9vMFIW9gU0AAAAd/ronaldo-siu.gif" width="250"/>
+<img src="https://media.tenor.com/JW2vqfY6wVMAAAAd/cristiano-ronaldo-siuuu.gif" width="250"/>
 
 </div>
 
