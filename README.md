@@ -1,103 +1,24 @@
-<h1 align="center">Hey 👋, I'm Husain Siddiqui</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Development Engineer | 🛠️ IT Support Enthusiast | 🚀 Future System Engineer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff99,100:000000&text=HUSAIN%20SIDDIQUI&fontColor=00ff99&fontSize=55&animation=fadeIn&fontAlignY=38&desc=DEVELOPMENT%20ENGINEER%20%7C%20CYBER%20MINDSET&descAlignY=55"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+%F0%9F%92%BB;Learning+Linux+%7C+Networking+%7C+Development;Building+My+Career+Step+by+Step+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+SYSTEM...;%3E+ACCESS+GRANTED+%F0%9F%94%93;%3E+WELCOME+TO+MY+PROFILE;%3E+LINUX+%7C+NETWORKING+%7C+IT+SUPPORT;%3E+LEARN.+BUILD.+REPEAT." />
 
----
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="850"/>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-- 🎓 Engineering Student from India
-- 💻 Interested in:
-  - IT Support
-  - System Administration
-  - Networking
-  - Development
-- 🌱 Currently Learning:
-  - Linux
-  - Networking
-  - Windows Troubleshooting
-  - Web Development
-- 📞 Strong Communication & Customer Handling Skills
-- ⚡ Goal: Become a Professional System Engineer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode,windows"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/husain-siddiqui/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎵 Currently Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
-## ☕ Fun Fact
+# 🧠 WHOAMI
 
 ```bash
-while(alive) {
-   eat();
-   code();
-   sleep();
-   repeat();
-}
+┌──(husain㉿github)-[~/root]
+└─$ whoami
+
+Name        : Husain Siddiqui
+Role        : Development Engineer
+Location    : Mumbai, India
+System      : Linux Mindset 🐧
+Focus       : IT Support | Networking | Troubleshooting
+Status      : Building Skills Every Day ⚡
