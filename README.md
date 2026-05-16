@@ -1,24 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff99,100:000000&text=HUSAIN%20SIDDIQUI&fontColor=00ff99&fontSize=55&animation=fadeIn&fontAlignY=38&desc=DEVELOPMENT%20ENGINEER%20%7C%20CYBER%20MINDSET&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:00ff99&text=HUSAIN%20SIDDIQUI&fontColor=00ff99&fontSize=60&animation=twinkling&fontAlignY=38&desc=CYBER%20ENGINEER%20%7C%20SYSTEM%20MINDSET&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+SYSTEM...;%3E+ACCESS+GRANTED+%F0%9F%94%93;%3E+WELCOME+TO+MY+PROFILE;%3E+LINUX+%7C+NETWORKING+%7C+IT+SUPPORT;%3E+LEARN.+BUILD.+REPEAT." />
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="850"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=00FF99&background=00000000&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=%3E+SYSTEM+BOOTING...;%3E+ACCESS+GRANTED+%F0%9F%94%93;%3E+WELCOME+TO+THE+CYBER+ZONE;%3E+LINUX+%7C+NETWORKING+%7C+DEVELOPMENT;%3E+REAL+ONES+BUILD+IN+THE+DARK..." />
 
 </div>
 
 ---
 
-# 🧠 WHOAMI
+<div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="1000"/>
+
+</div>
+
+---
+
+# 🧠 NEURAL PROFILE
+
+<img align="right" alt="Coding" width="420" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ```bash
-┌──(husain㉿github)-[~/root]
+┌──(root㉿husain)-[~/cybercore]
 └─$ whoami
 
 Name        : Husain Siddiqui
 Role        : Development Engineer
-Location    : Mumbai, India
-System      : Linux Mindset 🐧
-Focus       : IT Support | Networking | Troubleshooting
-Status      : Building Skills Every Day ⚡
+System      : Linux-Based Mindset
+Focus       : Networking | IT Support | Development
+Learning    : Ethical Hacking Concepts ⚡
+Status      : ONLINE 🟢
